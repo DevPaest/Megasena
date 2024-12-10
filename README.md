@@ -1,2 +1,2 @@
 # Megasena
- Palpites da Megasena
+ Palpites da Megasena,feito em Qt Designer, versao Teste
